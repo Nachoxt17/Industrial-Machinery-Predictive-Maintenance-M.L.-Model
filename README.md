@@ -26,7 +26,7 @@ This project builds a predictive maintenance model for industrial equipment usin
 ## ▶️ How to View & Run:
 Access the **read-only executable version** of the notebook in Google Colab:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK_HERE)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1MJ-zJe6n3jL74yoEZQwLkYG8hK4wDrJO?usp=sharing)
 
 This provides an interactive, executable review of the model development and analysis without requiring local setup.
 
