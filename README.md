@@ -21,7 +21,7 @@ This project builds a predictive maintenance model for industrial equipment usin
 
 ## 📂 Files:
 - `predictive_maintenance.csv` — sensor dataset.
-- `Industrial_Machinery_Predictive_Maintenance_M.L._Model.ipynb` — Jupyter Notebook with full pipeline.
+- `Industrial_Machinery_Predictive_Maintenance_ML_Model.ipynb` — Jupyter Notebook with full pipeline.
 
 ## ▶️ How to View & Run:
 Access the **read-only executable version** of the notebook in Google Colab:
