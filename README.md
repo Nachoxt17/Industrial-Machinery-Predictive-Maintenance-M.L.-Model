@@ -24,6 +24,8 @@ This project builds a predictive maintenance model for industrial equipment usin
 - `Industrial_Machinery_Predictive_Maintenance_ML_Model.ipynb` — Jupyter Notebook with full pipeline.
 
 ## ▶️ How to View & Run:
+Click in the  `Industrial_Machinery_Predictive_Maintenance_ML_Model.ipynb` Jupyter Notebook in this repository (recommended for non-technical people)
+OR
 Access the **read-only executable version** of the notebook in Google Colab:
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1MJ-zJe6n3jL74yoEZQwLkYG8hK4wDrJO?usp=sharing)
